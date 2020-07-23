@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Thanks for joining us today. :)
+They're taking the Hobbits to Isengard!
 Use the left arrow to go back!
